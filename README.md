@@ -51,5 +51,5 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ---
 <div align="center">
-  Built with 💻 and ☕ by <strong>Jit Halder</strong>
+  Built with 💻 and ☕ by <strong>Manisha paul</strong>
 </div>
